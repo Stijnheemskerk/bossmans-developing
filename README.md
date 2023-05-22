@@ -16,7 +16,7 @@ Navigate to Discord's developer portal and create a new application
     <img src="./doc/1.png"  width="500px"/>
 </p>
 
-### **2.** Get application keys and parameters!
+### **2.** Get application keys and parameters
 After creating the application, you are taken to the application's dashboard. There you can configure an app icon, description, etc. 
 
 Retrieve:
